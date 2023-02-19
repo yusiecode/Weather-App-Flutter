@@ -1,0 +1,4 @@
+https://api.openweathermap.org/data/2.5/weather?lat=34.006984&lon=71.4732999&appid=43ea6baaad7663dc17637e22ee6f78f2&units=metric
+
+By City Name:
+https://api.openweathermap.org/data/2.5/weather?q=islamabad&appid=43ea6baaad7663dc17637e22ee6f78f2
